@@ -7,7 +7,7 @@ Github includes a `/compare` view, which makes it possible for developers to vie
 
 ## Installation
 
-Create a new bookmark in your browser and name it `QuickDiff`. Then insert the contents of [quickdiff.bookmarklet.js](blob/master/quickdiff.bookmarklet.js) as the URL and save the bookmark.
+Create a new bookmark in your browser and name it `QuickDiff`. Then insert the contents of [quickdiff.bookmarklet.js](quickdiff.bookmarklet.js) as the URL and save the bookmark.
  
 ## Usage
 
